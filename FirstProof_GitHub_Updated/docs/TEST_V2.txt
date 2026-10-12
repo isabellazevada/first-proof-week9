@@ -1,0 +1,19 @@
+PASS blocks none
+PASS blocks full
+PASS blocks barrier
+PASS blocks expired
+PASS valid commitment opens preparation
+PASS valid evidence accepted
+PASS blank contribution rejected
+PASS overlong problem rejected
+PASS fractional count rejected
+PASS negative count rejected
+PASS unknown evidence enum rejected
+PASS unsupported result remains unverified
+PASS human criteria enable interview
+PASS missing skill receives specific feedback
+PASS capacity changes block final reservation
+PASS unpaid usable work pauses review
+PASS short reason rejected
+PASS duplicate reservation is blocked
+18/18 checks passed
